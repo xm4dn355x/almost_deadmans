@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #####################################################################################################################
 #                                                                                                                   #
-#                                                                                                                   #
+# Script for research and experiments                                                                               #
 #                                                                                                                   #
 # MIT License                                                                                                       #
 # Copyright (c) 2020 Michael Nikitenko                                                                              #
